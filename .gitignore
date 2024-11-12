@@ -46,6 +46,8 @@ artifacts/
 *.sqlite3
 *.sqlite-shm
 *.sqlite-wal
+*.db-shm
+*.db-wal
 
 ## DotNet Files
 *.dotsettings
